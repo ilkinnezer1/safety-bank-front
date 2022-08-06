@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0a5ce5e5.chunk.css",
+    "main.js": "/static/js/main.674d7cce.chunk.js",
+    "main.js.map": "/static/js/main.674d7cce.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.dfaa2ea2.js",
+    "runtime-main.js.map": "/static/js/runtime-main.dfaa2ea2.js.map",
+    "static/js/2.182fe430.chunk.js": "/static/js/2.182fe430.chunk.js",
+    "static/js/2.182fe430.chunk.js.map": "/static/js/2.182fe430.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.0a5ce5e5.chunk.css.map": "/static/css/main.0a5ce5e5.chunk.css.map",
+    "static/js/2.182fe430.chunk.js.LICENSE.txt": "/static/js/2.182fe430.chunk.js.LICENSE.txt",
+    "static/media/SignUp.css": "/static/media/8559b28f5bd34dd1f4c32d6bb406f1515d8cd316.5128c198.jpeg",
+    "static/media/Banner-millennia.884fe157.png": "/static/media/Banner-millennia.884fe157.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dfaa2ea2.js",
+    "static/js/2.182fe430.chunk.js",
+    "static/css/main.0a5ce5e5.chunk.css",
+    "static/js/main.674d7cce.chunk.js"
+  ]
+}
